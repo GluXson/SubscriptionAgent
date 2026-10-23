@@ -1,0 +1,39 @@
+# Python — srodowisko i pliki skompilowane
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Cache testow i narzedzi
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Lokalna Ollama, pobrane modele i logi serwera
+/runtime/
+
+# Slady uruchomien
+# Zachowaj jeden przykladowy slad do dokumentacji projektu
+/traces/*.jsonl
+!/traces/example_run.jsonl
+
+# Pozostale logi i pliki tymczasowe
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Edytory
+.idea/
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Lokalne ustawienia i sekrety
+.env
+.env.*
+!.env.example

@@ -1,0 +1,7 @@
+{
+  "monthly_savings_target_pln": 100,
+  "keep_if_used_within_days": 30,
+  "do_not_cancel": ["Spotify"],
+  "avoid_early_termination_penalties": true,
+  "notes": "Wybierz najmniejszą liczbę subskrypcji pozwalającą osiągnąć cel bez naruszania ograniczeń."
+}

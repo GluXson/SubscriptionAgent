@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Netflix",
+    "monthly_price_pln": 60,
+    "days_since_last_use": 3,
+    "contract": "monthly"
+  },
+  {
+    "name": "Spotify",
+    "monthly_price_pln": 24,
+    "days_since_last_use": 1,
+    "contract": "monthly"
+  },
+  {
+    "name": "HBO Max",
+    "monthly_price_pln": 40,
+    "days_since_last_use": 165,
+    "contract": "monthly"
+  },
+  {
+    "name": "Disney+",
+    "monthly_price_pln": 38,
+    "days_since_last_use": 235,
+    "contract": "monthly"
+  },
+  {
+    "name": "Adobe CC",
+    "monthly_price_pln": 95,
+    "days_since_last_use": 280,
+    "contract": "annual_with_penalty"
+  },
+  {
+    "name": "Xbox Game Pass",
+    "monthly_price_pln": 55,
+    "days_since_last_use": 70,
+    "contract": "monthly"
+  }
+]
