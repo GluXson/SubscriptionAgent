@@ -40,14 +40,7 @@ Windows x64, Python 3.10+ i internet przy pierwszym uruchomieniu.
 W terminalu PowerShell:
 
 ```powershell
-cd D:\Projekty\SubscriptionAgent
 .\start.bat
-```
-
-Własne zadanie:
-
-```powershell
-.\start.bat "Zaproponuj oszczędności zgodne z moimi preferencjami."
 ```
 
 ## Przykład
